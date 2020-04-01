@@ -6,7 +6,7 @@ Applications utilizing the Open Source Computer Vision library (OpenCV) in combi
 
 * Classification: Determines the class that an image or object in an image belong to.  Yes/no used to determined highest probability class.
 * Detection: Determines objects within image, typically with bounding boxes and classification. User typically has ability to set confidence threshold for bounding boxes.
-* Segmentation: classification by section - semantic (all instances of a lcass are considered one) and instance (separate instances of a class as separate objects)
+* Segmentation: classification by section - semantic (all instances of a class are considered one) and instance (separate instances of a class as separate objects)
 
 
 ## Steps for SSD for Vechicles
